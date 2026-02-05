@@ -1,8 +1,8 @@
-===========================================
+
 ===========================================
 ANÁLISIS DE PRÉSTAMOS BANCARIOS
 ===========================================
-===========================================
+
 
 AUTOR: Martin
 FECHA: Febrero 2025
@@ -34,3 +34,4 @@ ESTRUCTURA:
 5. Tablas_Dinamicas - Análisis multidimensional
 
 6. Dashboard - Visualización ejecutiva
+
