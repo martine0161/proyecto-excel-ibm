@@ -1,5 +1,7 @@
 ===========================================
+===========================================
 ANÁLISIS DE PRÉSTAMOS BANCARIOS
+===========================================
 ===========================================
 
 AUTOR: Martin
@@ -30,4 +32,5 @@ ESTRUCTURA:
 3. Datos_Limpios - Datos procesados
 4. Analisis - Métricas y cálculos
 5. Tablas_Dinamicas - Análisis multidimensional
+
 6. Dashboard - Visualización ejecutiva
