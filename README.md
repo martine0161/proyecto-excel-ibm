@@ -1,37 +1,26 @@
-ANÁLISIS DE PRÉSTAMOS BANCARIOS
-===========================================
+# 📊 Análisis Financiero en Excel
 
+## Descripción
+Dashboard interactivo para análisis de Loan Prediction Problem
 
-AUTOR: Martin
-FECHA: Febrero 2025
-HERRAMIENTA: Microsoft Excel
+## Dataset
+- Fuente: [[link](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset?resource=download)]
+- Registros: [367]
 
-OBJETIVO:
-Analizar patrones de aprobación de préstamos bancarios
-y factores que influyen en el riesgo crediticio
+## Análisis Realizados
+- ✅ Limpieza de datos con Power Query
+- ✅ KPIs financieros
+- ✅ Tablas dinámicas
+- ✅ Dashboard interactivo
 
-DATASET:
-- Fuente: Kaggle - Loan Prediction Dataset
-- Registros: [lo verás al importar]
-- Variables: 13 columnas
+## Screenshots
+![Dashboard](Dashboard.png)
 
-TÉCNICAS APLICADAS:
-✓ Power Query para limpieza de datos
-✓ Fórmulas avanzadas (BUSCARV, SI.CONJUNTO, SUMAR.SI)
-✓ Tablas dinámicas
-✓ Gráficos dinámicos
-✓ Dashboard interactivo
-✓ Análisis de segmentación
-✓ Formato condicional
+## Habilidades Demostradas
+- Excel avanzado
+- Análisis de datos financieros
+- Visualización de datos
+- Power Query
 
-ESTRUCTURA:
-1. README - Documentación
-2. Datos_Raw - Dataset original
-3. Datos_Limpios - Datos procesados
-4. Analisis - Métricas y cálculos
-5. Tablas_Dinamicas - Análisis multidimensional
-
-6. Dashboard - Visualización ejecutiva
-
-
-
+## Contacto
+[[LinkedIn](https://www.linkedin.com/in/martin-alonso-centeno-leon-220586342/)]
