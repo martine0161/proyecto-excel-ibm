@@ -1,4 +1,3 @@
-===========================================
 ANÁLISIS DE PRÉSTAMOS BANCARIOS
 ===========================================
 
@@ -33,5 +32,6 @@ ESTRUCTURA:
 5. Tablas_Dinamicas - Análisis multidimensional
 
 6. Dashboard - Visualización ejecutiva
+
 
 
